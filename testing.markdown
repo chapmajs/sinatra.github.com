@@ -291,7 +291,7 @@ more information on `get`, `post`, `put`, `delete` and friends.
 [RSpec]: http://rspec.info
 [Test::Spec]: http://rubydoc.info/gems/test-spec/
 [Rack::Test]: https://github.com/rack-test/rack-test
-[spec]: http://rubydoc.info/github/rack/rack/master/file/SPEC
+[spec]: https://rubydoc.info/github/rack/rack/file/SPEC.rdoc
 [Rack::MockRequest]: http://rubydoc.info/github/rack/rack/master/Rack/MockRequest
 [Rack::MockResponse]: http://rubydoc.info/github/rack/rack/master/Rack/MockResponse
 [examples]: https://github.com/brynary/webrat/wiki/sinatra
